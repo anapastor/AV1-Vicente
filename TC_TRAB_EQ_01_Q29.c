@@ -5,7 +5,6 @@ int main() {
     
     char name[100];
     char age[50];
-    char sentence[100];
     char address[100];
     char tel[50];
     printf("Digite seu Nome:\n");
